@@ -12,4 +12,4 @@ Hello, and welcome to my website. I'm a PhD candidate from the Department of Gov
 </div>
 
 <br>
-Please see [my curriculum vitae here](/files/muzhou_zhang_cv.pdf){:target="_blank"} and feel free to reach out to me.
+Please feel free to reach out to me.

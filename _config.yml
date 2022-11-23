@@ -80,12 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Muzhou Zhang"
   avatar           : "profile.png"
-  email            : 
-  bio              : "muzhou.zhang[at]essex.ac.uk"
+  email            : "muzhou.zhang[at]essex.ac.uk"
+  cv               : "/files/muzhou_zhang_cv.pdf"
+  bio              : "PhD candidate<br>environmental politics"
   location         : "Wivenhoe Park, England"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : 
   researchgate     : 
