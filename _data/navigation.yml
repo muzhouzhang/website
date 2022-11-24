@@ -3,8 +3,8 @@ main:
   - title: "about"
     url: /about/
 
-  - title: "research"
-    url: /research/
-
   - title: "curriculum vitae"
     url: /cv/ 
+    
+  - title: "research"
+    url: /research/

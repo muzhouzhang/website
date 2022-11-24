@@ -24,7 +24,6 @@ author_profile: true
 5. "Idiosyncratic Economic Insecurity and Public Opposition to the Texes on Fossil Fuels" _work in progress_
 
 6. "Unsustainable Lockdowns: Pandemic Policies and the Perverse Effects of COVID-19 Management on Environmental Attitudes and Governance" (with Federica Genovese) _work in progress_
-
 {: reversed="reversed"}
 
 (please see the [_research_ page for abstract](/research/){:target="_blank"})
@@ -47,9 +46,7 @@ author_profile: true
 - EPSA (2022), ISA (2022), MPSA (2022)
 
 ### Additional Courses
-<div style="text-align: left">
-- EITM Europe, Generalized Linear Models (Essex Summer School), Bayesian Analysis for the Social and Behavioural Sciences (Essex Summer School), Time Series and Spatial Analysis (IPSA-NUS), General Designs and Sensitivity Analysis for Causal Inference (Michigan-PKU Joint Institute), Applied Regression Analysis (IPSA-HSE), Research on Quantitative History (School of Economics, PKU), Sampling Survey and Its Applications (Institute for Social Science Survey, PKU)
-</div>
+- <div style="text-align: justify"> EITM Europe, Generalized Linear Models (Essex Summer School), Bayesian Analysis for the Social and Behavioural Sciences (Essex Summer School), Time Series and Spatial Analysis (IPSA-NUS), General Designs and Sensitivity Analysis for Causal Inference (Michigan-PKU Joint Institute), Applied Regression Analysis (IPSA-HSE), Research on Quantitative History (School of Economics, PKU), Sampling Survey and Its Applications (Institute for Social Science Survey, PKU) </div>
 
 ### Skills
 - R, Stata, QGIS, GeoDa, Qualtrics
