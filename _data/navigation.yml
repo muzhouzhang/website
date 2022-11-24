@@ -5,3 +5,6 @@ main:
 
   - title: "research"
     url: /research/
+
+  - title: "curriculum vitae"
+    url: /cv/ 
