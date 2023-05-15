@@ -1,10 +1,8 @@
 # main links links
 main:
-  - title: "about"
-    url: /about/
-
-  - title: "curriculum vitae"
-    url: /cv/ 
-    
-  - title: "research"
+  - title: "Curriculum vitae"
+    url: "/files/muzhou_zhang_cv.pdf"
+    target: "_blank"
+  
+  - title: "Research"
     url: /research/

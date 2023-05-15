@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Muzhou Zhang"
 title_separator          : "-"
 name                     : &name "Muzhou Zhang"
-description              : &description "PhD candidate in political science"
+description              : &description "PhD candidate in Government"
 url                      : https://www.muzhouzhang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "muzhouzhang/muzhouzhang.github.io"
@@ -83,12 +83,12 @@ author:
   name             : "Muzhou Zhang"
   avatar           : "profile.png"
   email            : "muzhou.zhang[at]essex.ac.uk"
-  cv               : "/files/muzhou_zhang_cv.pdf"
-  bio              : "PhD candidate<br>environmental politics"
-  location         : "Wivenhoe Park, England"
-  employer         : 
+  cv               :
+  bio              : "PhD candidate in Government"
+  location         : "Wivenhoe Park, CO4 3SQ"
+  employer         : "University of Essex"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=rsTHwPMAAAAJ&hl=en&oi=ao"
   researchgate     : 
   uri              :
   bitbucket        :
