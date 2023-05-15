@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Curriculum vitae"
-    url: "/files/muzhou_zhang_cv.pdf"
+    url: "/files/cv.pdf"
     target: "_blank"
   
   - title: "Research"
