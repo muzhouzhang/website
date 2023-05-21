@@ -20,4 +20,4 @@ Please feel free to reach out to me.
 #### News
 <sub>- EPSA, Glasgow: I will present "Cross-cutting vulnerabilities and preference updating on climate mitigation" (PP03, 12:40&ndash;14:20 BST, 22 June, TIC Room 4, University of Strathclyde).</sub><br />
 <sub>- EPG, Glasgow: I will present the same paper in poster format (logistics to follow).</sub><br />
-<sub>- Essex Summer School, Colchester: I will teach (details to follow).</sub>
+<sub>- Essex Summer School, Wivenhoe Park: I will teach (details to follow).</sub>
