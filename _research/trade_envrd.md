@@ -4,7 +4,7 @@ title: "Research under review"
 permalink: /research/trade_envrd
 author_profile: true
 ---
-Trade and the government underfunding of environmental innovation. 2023. R&R, *Journal of Environmental Studies and Sciences*. <a href="https://doi.org/10.33774/apsa-2021-hjwjs" target="_blank"><i class="fas fa-fw fa-link"></i></a><font size="1">[APSA Preprints]</font>  
+Trade and the government underfunding of environmental innovation. 2023. R&R, *Journal of Environmental Studies and Sciences*. <a href="https://doi.org/10.33774/apsa-2021-hjwjs-v2" target="_blank"><i class="fas fa-fw fa-link"></i></a><font size="1">[APSA Preprints]</font>  
 
 ### Abstract
 <div style="text-align: justify">
