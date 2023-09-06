@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /
+permalink: /home/
 title: "Hello and welcome"
 author_profile: true
 redirect_from: 
