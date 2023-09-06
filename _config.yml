@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Muzhou Zhang"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name "Muzhou Zhang"
 description              : &description "PhD candidate in Government"
 url                      : https://www.muzhouzhang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -183,6 +183,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  misc:
     output: true
     permalink: /:collection/:path/
   portfolio:
