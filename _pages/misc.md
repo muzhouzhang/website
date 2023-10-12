@@ -4,12 +4,10 @@ title: "Miscellaneous"
 permalink: /misc/
 author_profile: true
 ---
-Usual disclaimers apply.
+<font size="2px">Usual disclaimers apply.</font> 
 
 ### Some data sources
-<ul style="font-size:0.75em;">
-Just a personal, unsystematic collection. See, for instance, <li><a href="https://github.com/erikgahner/PolData" target="_blank">PolData</a></li> initiated by Erik Gahner Larsen for more.
-</ul>
+<font size="2px">Just a personal, unsystematic collection. See, for instance, <a href="https://github.com/erikgahner/PolData" target="_blank">PolData</a> initiated by Erik Gahner Larsen for more.</font>
 
 #### environment/energy
 <ul style="font-size:0.75em;">

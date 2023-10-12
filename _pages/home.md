@@ -15,11 +15,11 @@ I will join the POLABROAD project based at Aarhus University as a postdoctoral r
 Please feel free to reach out to me.
 </div>
 
-#### news
+### News
 <ul style="font-size:0.75em;">
-<li>Policy brief online, Oct 10: Why Sunak’s net zero rollback won’t pay off, <li><a href="https://blogs.lse.ac.uk/politicsandpolicy/why-sunaks-net-zero-rollback-wont-pay-off/" target="_blank"><em>LSE Blogs</em></a></li> (with Liam F. Beiser-McGrath)
+<li>Policy brief online, Oct 10: Why Sunak’s net zero rollback won’t pay off, <a href="https://blogs.lse.ac.uk/politicsandpolicy/why-sunaks-net-zero-rollback-wont-pay-off/" target="_blank"><em>LSE Blogs</em></a> (with Liam F. Beiser-McGrath)</li>
 <li>Funding approved, Sep 28: $2,415 from the 2023 Summer Centennial Center (APSA) Research Grants</li>
-<li>Paper accepted, Sep 07: Policy diffusion and the interdependent fuel taxes, <em>Climatic Change</em>
+<li>Paper accepted, Sep 07: Policy diffusion and the interdependent fuel taxes, <em>Climatic Change</em></li>
 </ul>
 
 <figure>
