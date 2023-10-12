@@ -17,8 +17,9 @@ Please feel free to reach out to me.
 
 #### news
 <ul style="font-size:0.75em;">
-<li>Funding awarded, Aug 12: 2023 Summer Centennial Center (APSA) Research Grants</li>
-<li>Paper published, Aug 09: <a href="https://doi.org/10.1007/s13412-023-00847-4" target="_blank">Trade and the government underfunding of environmental innovation</a> in the <em>Journal of Environmental Studies and Sciences</em></li>
+<li>Policy brief online, Oct 10: Why Sunak’s net zero rollback won’t pay off, <li><a href="https://blogs.lse.ac.uk/politicsandpolicy/why-sunaks-net-zero-rollback-wont-pay-off/" target="_blank"><em>LSE Blogs</em></a></li> (with Liam F. Beiser-McGrath)
+<li>Funding approved, Sep 28: $2,415 from the 2023 Summer Centennial Center (APSA) Research Grants</li>
+<li>Paper accepted, Sep 07: Policy diffusion and the interdependent fuel taxes, <em>Climatic Change</em>
 </ul>
 
 <figure>

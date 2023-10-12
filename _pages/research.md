@@ -4,7 +4,7 @@ title: "Ongoing research"
 permalink: /research/
 author_profile: true
 ---
-5\. Policy diffusion and the interdependent fuel taxes – *R&R, Climatic Change*
+5\. Policy diffusion and the interdependent fuel taxes – Accepted, *Climatic Change*
 <br />
 <sub>presented at EPSA 2022</sub>
 

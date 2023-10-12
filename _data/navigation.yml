@@ -1,17 +1,17 @@
 # main links
 main:
-  - title: "home"
+  - title: "Home"
     url: /home/
 
-  - title: "curriculum vitae"
+  - title: "Curriculum vitae"
     url: "/files/cv.pdf"
     target: "_blank"
   
-  - title: "ongoing research"
+  - title: "Ongoing research"
     url: /research/
   
-  - title: "publications"
+  - title: "Publications"
     url: /publications/
 
-  - title: "miscellaneous"
+  - title: "Miscellaneous"
     url: /misc/
