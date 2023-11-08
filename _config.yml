@@ -82,11 +82,12 @@ analytics:
 author:
   name             : "Muzhou Zhang"
   avatar           : "profile.png"
-  email            : "muzhou.zhang[at]essex.ac.uk"
+  email            : "mz[at]ps.au.dk"
   cv               :
-  bio              : "PhD candidate in Government"
-  location         : "Wivenhoe Park, CO4 3SQ"
-  employer         : "University of Essex"
+  bio              : "Postdoc at Aarhus University"
+  location         : "Bartholins Allé 7, 8000 Aarhus C"
+  office           : "bygning 1340, 131"
+  employer         : "PhD from University of Essex"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rsTHwPMAAAAJ&hl=en&oi=ao"
   researchgate     : 
@@ -110,7 +111,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "muzhouzhang"
+  twitter          :
   vine             :
   weibo            :
   xing             :

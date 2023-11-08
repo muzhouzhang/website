@@ -22,14 +22,17 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
-      {% if author.employer %}
-      <li><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i> {{ author.employer }}</li>
-      {% endif %}
       {% if author.location %}
       <li><i class="fa fa-fw fa-map-pin" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+      {% if author.office %}
+      <li><i class="fa fa-fw fa-building" aria-hidden="true"></i> {{ author.office }}</li>
+      {% endif %}
       {% if author.email %}
-      <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</li>
+      <li><i class="fa fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</li>
+      {% endif %}
+      {% if author.employer %}
+      <li><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.googlescholar %}
       <li><a href="{{ author.googlescholar }}" target="_blank"><i class="fa fa-fw fa-search" style="color:#4285F4;"></i> Google Scholar</a></li>
